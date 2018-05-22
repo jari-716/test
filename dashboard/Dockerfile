@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1  
-MAINTAINER qiushida@buaa.edu.c
+MAINTAINER iushida@buaa.edu.c
